@@ -23,3 +23,23 @@ a {
     padding: 0 15px;
     margin: 0 auto;
 }
+
+.header__nav{
+    background: #3E8989;
+    padding: 33px 0;
+}
+
+.div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav__link {
+    display: flex;
+    column-gap: 30px;
+    align-items: center;
+}
+
+.nav__list {
+    color: #fff;
+}
